@@ -1,0 +1,21 @@
+{
+  "short_name": "A qué hora salgo",
+  "name": "¿A qué hora salgo?",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#102a43",
+  "theme_color": "#102a43",
+  "display": "standalone",
+  "orientation": "portrait"
+}
